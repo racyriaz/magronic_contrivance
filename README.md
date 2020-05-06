@@ -4,7 +4,7 @@
 https://www.arduino.cc/en/main/software
 
 # this program requires:
-1) arduino NANO / Uno
+1) arduino NANO / Uno and ti's msp430 and ektm4c123gxl boards
 2) Magronic contrivance's complete hardware machinery
 3) basic knowledge on agricultre / farming 
 4) temperature sensor(lm35)
