@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# check out for updates at https://github.com/racyriaz/magronic_contrivance
 
-You can use the [editor on GitHub](https://github.com/racyriaz/magronic_contrivance/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# this codes were written using arduino software to view or to run this code pls use this link to download latest software : 
+https://www.arduino.cc/en/main/software
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# this program requires:
+1) arduino NANO / Uno
+2) Magronic contrivance's complete hardware machinery
+3) basic knowledge on agricultre / farming 
+4) temperature sensor(lm35)
+5) moisture sendor
+6) ph sensor
 
-### Markdown
+# what this code does:
+1) creates artificial envirnoment
+2) agitates complete machinery with 2 HP motors
+3) regulate 3 vital parameters using the provided sensors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# About us:
+This project deals with organic manure production. In conventionl way of organic manure production, it takes about 
+2 to 3 week to produce organic manure in the tropical region.
 
-```markdown
-Syntax highlighted code block
+So our(Magronic Contrivance Pvt LTd.) motto was to stipulate time factor with help of artifical environment.
+Provided with same inputs to the machine which we developed at IIMB(NSRCEL)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/racyriaz/magronic_contrivance/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+if you want to know futher about the project please reach out at racyriaz@gmail.com
